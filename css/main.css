@@ -16,6 +16,10 @@ a {
     text-decoration: none;
     color: #999;
 }
+p a {
+    text-decoration: none;
+    color: #5039C8;
+}
 a:hover {
     text-decoration: underline;
 }
